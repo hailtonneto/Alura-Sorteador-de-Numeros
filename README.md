@@ -6,7 +6,6 @@ Projeto desenvolvido durante o curso, Lógica de programação: praticando com d
 
 - Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
 - Declarar variáveis no JavaScript para armazenar elementos recuperados da página;
-- Função para verificação;
 - Utilizar um código já desenvolvido por terceiros para realizar o sorteio de um número aleatório dentro de um intervalo.
 
 <div style="display: inline_block"><br>
